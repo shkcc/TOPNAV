@@ -1,0 +1,23 @@
+body{
+    margin:0px;
+    background-image: url('download.jpg');
+}
+header{
+    display:flex;
+    justify-content: space-between;
+    background-color:rgba(0, 0, 255, 0.473);
+    width: 100%;
+}
+
+nav a{
+    padding: 10px 15px;
+    color:rgb(212, 211, 119);
+    float: right;
+}
+nav a:hover{
+    background-image:url('images.jpg');
+}
+.banner{
+    float:left;
+    color:rgb(238, 158, 53);
+}
